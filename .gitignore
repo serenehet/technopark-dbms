@@ -2,4 +2,8 @@
 .idea/
 node_modules/
 package-lock.json
-vcode
+vscode
+access.log
+report.html
+technopark-dbms-forum
+dist/bundle.js
